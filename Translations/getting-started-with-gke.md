@@ -1,4 +1,6 @@
-### Getting started with GKE (Google Kubernetes Engine)
+# Getting started with GKE (Google Kubernetes Engine)
+
+
 
 ## Objectives
 In this lab, you learn how to perform the following tasks:
@@ -8,7 +10,9 @@ In this lab, you learn how to perform the following tasks:
 - Deploy and manage Docker containers using kubectl.
 
 
-**Start a Kubernetes Engine cluster**
+
+
+### **Start a Kubernetes Engine cluster**
 
 Open Cloud Shell
 
@@ -25,7 +29,9 @@ Open Cloud Shell
    `kubectl version`
 
 
-**Run and deploy a container**
+
+
+### **Run and deploy a container**
 
 From Cloud shell prompt
 
@@ -60,4 +66,9 @@ From Cloud shell prompt
 
  `kubectl get services`
 
+> Return to the web browser tab in which you viewed your cluster's external IP address. Refresh the page to confirm that the nginx web server is still responding.
+
+
+
+#### End of Lab
 
