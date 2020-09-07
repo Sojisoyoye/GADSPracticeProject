@@ -91,4 +91,6 @@ From the cloud shell
 
  - This will lauch with the url http://YOUR_PROJECT_ID.appspot.com
 
- - copy and paste the url into a new browser window to view the result which should show 
+ - copy and paste the url into a new browser window to view the result which should show
+
+ #### End of Lab
